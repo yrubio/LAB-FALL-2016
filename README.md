@@ -21,9 +21,10 @@ Grant proposals: if time permits we will include a section on grant writing (for
  * **Materials**:
 
 
-## Wishlist (you may either choose a paper from this list or suggest one).
+## Wishlist
 
- 
+You may either choose a paper from this list or suggest one.
+
 * [ Lo et al., Why significant variables aren’t automatically good predictors (PNAS, 2015) ] (http://www.pnas.org/content/112/45/13892.abstract)
 * [ Canela-Xandri et al., Accurate genetic profiling of anthropometric traits using a big data approach.](http://biorxiv.org/content/early/2015/12/01/033134.abstract)
 * [Kumar et al., Limitations of GCTA as a solution to the missing
@@ -49,6 +50,5 @@ heritability problem (PNAS, 2015) ](http://www.pnas.org/content/113/1/E61.full.p
 * [Big data mining yields novel insights on cancer](http://www.nature.com/ng/journal/v47/n2/full/ng.3205.html)
 * [Factors underlying variable DNA methylation in a human community cohort](http://www.pnas.org/content/109/Supplement_2/17253.full.pdf?sid=c8beed59-5f0c-471b-a773-14b0ba21ef82)
 * [Integration Analysis of Three Omics Data Using Penalized Regression Methods: An Application to Bladder Cancer](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005689)
-<<<<<<< Updated upstream
-[Contrasting genetic architectures of schizophrenia and other complex diseases using fast variance-components analysis](http://www.nature.com/ng/journal/v47/n12/full/ng.3431.html#supplementary-information)
-[Efficient Multiple-Trait Association and Estimation of Genetic Correlation Using the Matrix-Variate Linear Mixed Model](http://genetics.org/content/200/1/59)
+* [Contrasting genetic architectures of schizophrenia and other complex diseases using fast variance-components analysis](http://www.nature.com/ng/journal/v47/n12/full/ng.3431.html#supplementary-information)
+* [Efficient Multiple-Trait Association and Estimation of Genetic Correlation Using the Matrix-Variate Linear Mixed Model](http://genetics.org/content/200/1/59)
