@@ -194,8 +194,3 @@ heritability problem (PNAS, 2015) ](http://www.pnas.org/content/113/1/E61.full.p
 <<<<<<< Updated upstream
 [Contrasting genetic architectures of schizophrenia and other complex diseases using fast variance-components analysis](http://www.nature.com/ng/journal/v47/n12/full/ng.3431.html#supplementary-information)
 [Efficient Multiple-Trait Association and Estimation of Genetic Correlation Using the Matrix-Variate Linear Mixed Model](http://genetics.org/content/200/1/59)
-=======
-=======
-
-
->>>>>>> Stashed changes
