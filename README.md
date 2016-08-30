@@ -2,14 +2,13 @@
 
 [Group's Website](http://quantgen.github.io/)
 
+This season we will be covering papers from outside the group (~8), software from the group (1-2) and eventually discussion of grant proposals.
 
-This season we will be covering papers from outside the group (~8), sfotware from the group (1-2) and eventually discussion of grant proposals.
-
-Papers: chose one paper from the list below or propose one. Papers should: (a) introduce novel metholdology that is relevant to the topics of research of interest of the group, or (b) be relevant to the particular applications you are working on. 
+Papers: choose one paper from the list below or propose one. Papers should: (a) introduce novel methodology that is relevant to the research interests of the group, or (b) be relevant to the particular applications you are working on. 
 
 Software: we will organize 1-2 sections to share software being developed by the group. 
 
-Grant proposals: if time permit we will include on section on grant writing (format to be determined).
+Grant proposals: if time permits we will include a section on grant writing (format to be determined).
 
 
 ## Schedule
