@@ -2,13 +2,11 @@
 
 [Group's Website](http://quantgen.github.io/)
 
-This semester we will be covering both papers from outside the group as well as ongoing research from our group.
+This semester we will be covering  papers from outside the group, a few presentations on ongoing research from our group and have a vew invited presenters.
 
-**Papers**: choose one paper from the list below or propose one. Papers should: (a) introduce novel methodology that is relevant to the research interests of the group, or (b) be relevant to the particular applications you are working on. 
+**Advisors**: Each of the students presenting must pick an advisor, possible advisors are: Sudha, Hwasoon, Ana and Gustavo.
 
-**Ongoing Research**: if you want to share your research with the rest of the group you can choose to present your own project. If you choose to do so, you should provide: (i) justification for the project, (ii) review of the literature, (iii) precise formulation of the research question(s), (iv) description of data and methods and (v) preliminary results.
-
-**Grant proposals: if you are working on a grant and want to discuss it with the group you can choose this option. 
+**Papers**: Choose one paper from the list below or propose one. Papers should: (a) introduce novel methodology that is relevant to the research interests of the group, or (b) be relevant to the particular applications you are working on. 
 
 
 ## Schedule
@@ -26,15 +24,14 @@ This semester we will be covering both papers from outside the group as well as 
 ## Perspectives/Reviews
 
 
-[Protein Variation in Natural Populations and Quantitative Genetic Variation]( http://www.genetics.org/content/203/4/1497)
-[The History of the Y-Chromosome in man, Hughes & Page, Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n6/pdf/ng.3580.pdf)
+ * Protein Variation in Natural Populations and Quantitative Genetic Variation ([Hubby et al., Genetics, 2016]( http://www.genetics.org/content/203/4/1497))
+ * The History of the Y-Chromosome in man ([Hughes & Page, Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n6/pdf/ng.3580.pdf))
 
 ## Research/Methods Articles
 
 
-[Incorporating LD information in Genomic Prediction with Sequence Data](http://www.genetics.org/content/202/2/411)
-[Tensor decomposition for multiple-tissue gene expression experiments, Hore et al., 2016](http://www.nature.com/ng/journal/v48/n9/full/ng.3624.html)
-
+Incorporating LD information in Genomic Prediction with Sequence Data([Carlsen et al., Genetics, 2016](http://www.genetics.org/content/202/2/411))
+Tensor decomposition for multiple-tissue gene expression experiments [Hore et al., Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n9/full/ng.3624.html))
 
 
 
