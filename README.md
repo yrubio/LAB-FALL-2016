@@ -34,9 +34,9 @@ This semester we will be covering  papers from outside the group, a few presenta
  * Fast, Exact Bootstrap Principal Component Analysis for p > 1 Million ([Fisher et al., JASA, 2016](http://www.tandfonline.com/doi/full/10.1080/01621459.2015.1062383))
  * Sparse Regression Incorporating Graphical Structure Among Predictors ([Yu  & Liu, JASA, 2016](http://www.tandfonline.com/doi/full/10.1080/01621459.2015.1034319))
  * Incorporating LD information in Genomic Prediction with Sequence Data([Carlsen et al., Genetics, 2016](http://www.genetics.org/content/202/2/411))
-  * Tensor decomposition for multiple-tissue gene expression experiments [Hore et al., Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n9/full/ng.3624.html))
-* Structured Matrix Completion with Applications to Genomic Data Integration ([Cai et al., JASA, 2016](http://www.tandfonline.com/doi/full/10.1080/01621459.2015.1021005))
-* 
+ * Tensor decomposition for multiple-tissue gene expression experiments [Hore et al., Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n9/full/ng.3624.html))
+ * Structured Matrix Completion with Applications to Genomic Data Integration ([Cai et al., JASA, 2016](http://www.tandfonline.com/doi/full/10.1080/01621459.2015.1021005))
+
 ## Research and Case Study Articles
 
   * Genetic Variation of Gene Editing ([ Tongjun et al., Genetics, 2016](http://www.genetics.org/content/202/2/787))
