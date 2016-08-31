@@ -11,8 +11,8 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ## Schedule
 
- * **Date**:
- * **Time**:
+ * **Date**: Friday, Sept 9, 2016.
+ * **Time**: 1:00-2:00pm
  * **Room**:
  * **Presenter(s)**:
  * **Topic(s)**:
