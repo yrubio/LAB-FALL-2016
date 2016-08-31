@@ -33,7 +33,7 @@ This semester we will be covering  papers from outside the group, a few presenta
   * Tensor decomposition for multiple-tissue gene expression experiments [Hore et al., Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n9/full/ng.3624.html))
   * Genetic Variation of Gene Editing ([ Tongjun et al., Genetics, 2016](http://www.genetics.org/content/202/2/787))
   * Cis- and Trans-Gene Inactivation Caused by Heterochromatin in Drosophila ([ Yuriy et al., Genetics, 2016](http://www.genetics.org/content/202/1/93))
-  * Contribution of genetic and common shared environoment to common disease using the UK-Biobank ([Muñoz et al., Nat. Gen., 2016
+  * Contribution of genetic and common shared environoment to common disease using the UK-Biobank ([Muñoz et al., Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n9/full/ng.3618.html))
   * Integration of eQTL and GWAS results for prediction of complex trait gene targets ([Zhu et al., Nat Genet., 2016](http://www.nature.com/ng/journal/v48/n5/pdf/ng.3538.pdf))
 
 ## Trait-focused 
