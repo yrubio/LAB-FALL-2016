@@ -28,11 +28,17 @@ This semester we will be covering  papers from outside the group, a few presenta
  * The History of the Y-Chromosome in man ([Hughes & Page, Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n6/pdf/ng.3580.pdf))
  * What do you mean "Epigenetic"? ([Deans & Maggert, Genetics, 2015](http://www.genetics.org/content/199/4/887))
 
+## Methods
 
-## Research/Methods Articles
-
-  * Incorporating LD information in Genomic Prediction with Sequence Data([Carlsen et al., Genetics, 2016](http://www.genetics.org/content/202/2/411))
+ * Exact Post-Selection Inference for Sequential Regression Procedures ([Tibshirani et al., JASA, 2016](http://www.tandfonline.com/doi/full/10.1080/01621459.2015.1108848))
+ * Fast, Exact Bootstrap Principal Component Analysis for p > 1 Million ([Fisher et al., JASA, 2016](http://www.tandfonline.com/doi/full/10.1080/01621459.2015.1062383))
+ * Sparse Regression Incorporating Graphical Structure Among Predictors ([Yu  & Liu, JASA, 2016](http://www.tandfonline.com/doi/full/10.1080/01621459.2015.1034319))
+ * Incorporating LD information in Genomic Prediction with Sequence Data([Carlsen et al., Genetics, 2016](http://www.genetics.org/content/202/2/411))
   * Tensor decomposition for multiple-tissue gene expression experiments [Hore et al., Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n9/full/ng.3624.html))
+* Structured Matrix Completion with Applications to Genomic Data Integration ([Cai et al., JASA, 2016](http://www.tandfonline.com/doi/full/10.1080/01621459.2015.1021005))
+* 
+## Research and Case Study Articles
+
   * Genetic Variation of Gene Editing ([ Tongjun et al., Genetics, 2016](http://www.genetics.org/content/202/2/787))
   * Cis- and Trans-Gene Inactivation Caused by Heterochromatin in Drosophila ([ Yuriy et al., Genetics, 2016](http://www.genetics.org/content/202/1/93))
   * Contribution of genetic and common shared environoment to common disease using the UK-Biobank ([Muñoz et al., Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n9/full/ng.3618.html))
@@ -51,6 +57,5 @@ This semester we will be covering  papers from outside the group, a few presenta
   * DNA Methylation Landscapes of Human Fetal Development ([Roderick C. Slieker, PLoS Genetics, 2015](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1005583))
   * Epigenetic Aging Signatures Are Coherently Modified in Cancer ([Qiong Lin, PLoS Genetics](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1005334))
   * An Integrative Multi-scale Analysis of the Dynamic DNA Methylation Landscape in Aging ([Tian Yuan, PLoS Genetics, 2015](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004996))
-
   * Factors underlying variable DNA methylation in a human community cohort ([Lam et al., PNAS, 2012](http://www.pnas.org/content/109/Supplement_2/17253.full.pdf?sid=c8beed59-5f0c-471b-a773-14b0ba21ef82))
   * Integration Analysis of Three Omics Data Using Penalized Regression Methods: An Application to Bladder Cancer([Pineda et al., PLoS Genetics, 2015](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005689))
