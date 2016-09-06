@@ -11,7 +11,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ## Schedule
 
- * **Date**: Friday, Sep 9, 2016.
+ * **Date**: Friday, Sep 9, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**:
@@ -20,7 +20,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ---
 
- * **Date**: Friday, Sep 16, 2016.
+ * **Date**: Friday, Sep 16, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**:
@@ -29,7 +29,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ---
 
- * **Date**: Friday, Sep 23, 2016.
+ * **Date**: Friday, Sep 23, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**:
@@ -38,7 +38,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ---
 
- * **Date**: Friday, Sep 30, 2016.
+ * **Date**: Friday, Sep 30, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**:
@@ -47,7 +47,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ---
 
- * **Date**: Friday, Oct 7, 2016.
+ * **Date**: Friday, Oct 7, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**:
@@ -56,7 +56,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ---
 
- * **Date**: Friday, Oct 14, 2016.
+ * **Date**: Friday, Oct 14, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**:
@@ -65,7 +65,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ---
 
- * **Date**: Friday, Oct 21, 2016.
+ * **Date**: Friday, Oct 21, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**:
@@ -74,7 +74,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ---
 
- * **Date**: Friday, Oct 28, 2016.
+ * **Date**: Friday, Oct 28, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**:
@@ -83,7 +83,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ---
 
- * **Date**: Friday, Nov 4, 2016.
+ * **Date**: Friday, Nov 4, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**:
@@ -92,7 +92,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ---
 
- * **Date**: Friday, Nov 11, 2016.
+ * **Date**: Friday, Nov 11, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**:
@@ -101,7 +101,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ---
 
- * **Date**: Friday, Nov 18, 2016.
+ * **Date**: Friday, Nov 18, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**:
@@ -110,7 +110,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ---
 
- * **Date**: Friday, Nov 25, 2016.
+ * **Date**: Friday, Nov 25, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**:
@@ -119,7 +119,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ---
 
- * **Date**: Friday, Dec 2, 2016.
+ * **Date**: Friday, Dec 2, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**:
@@ -128,7 +128,7 @@ This semester we will be covering  papers from outside the group, a few presenta
 
 ---
 
- * **Date**: Friday, Dec 9, 2016.
+ * **Date**: Friday, Dec 9, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**:
